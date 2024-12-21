@@ -4175,78 +4175,60 @@
 <body><noscript>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700;900&family=Kanit:wght@400;500;600;700;900&display=swap">
     </noscript>
-<div class="nav-bar" data-v-1e06343c="" style="--47b0fc0b: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_deco.png'); --bed21a68: url('https://web.df.garena.com/02_h5/240923_official_website/th/mb/icon_menu.svg'); --61a7db53: url('https://web.df.garena.com/02_h5/240923_official_website/th/mb/nav_on.png');" data-v-20b942c2="">
-                <div class="nav-bar__wrap" data-v-20b942c2="">
-                    <div class="nav-bar__items" data-v-20b942c2="">
-                        <div class="logo" data-v-20b942c2="" style="--1bc50692: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_03.png'); --5811932a: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_01.png'); --a920d5b6: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_02.png');" data-v-155083fb="">
-                            <div class="icon-garena top_logo_03" data-v-155083fb=""></div>
-                            <div class="icon-game top_logo_01" data-v-155083fb=""></div>
-                        </div>
-                        <div class="link-btn-wrap" data-v-20b942c2=""><!--[--><a class="link-btn" target="_blank" href="https://redeem.df.garena.sg/th/cdkgarena.html" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">ศูนย์แลกรางวัล</span><img src="https://web.df.garena.com/02_h5/240923_official_website/general/top_icon_03.png" alt="link" data-v-74567417=""></a><a class="link-btn" target="_blank" href="https://www.garena.co.th/customer" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">ฝ่ายบริการลูกค้า</span><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_icon_02.png" alt="link" data-v-74567417=""></a><a class="link-btn" target="_blank" href="https://deltaforce.garena.com/anticheat/th/" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">G.T.I. Security</span><img src="https://web.df.garena.com/02_h5/240923_official_website/general/top_icon_01.png" alt="link" data-v-74567417=""></a><!--]--></div>
-                    </div>
-                    <div class="nav-bar__items social-media-lang" data-v-20b942c2="">
-                        <div class="social-media-btn-wrap" data-v-20b942c2=""><!--[--><a class="social-media-btn" href="https://www.facebook.com/GarenaDeltaForceTH/" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_01.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.instagram.com/garenadfth/" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_03.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.youtube.com/@GarenaDeltaForceTH" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_04.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://discord.com/invite/SA9R5N9Q4c" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_05.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.tiktok.com/@garenadeltaforceth" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_06.png" alt="icon-social_media" data-v-7280c579=""></a><!--]--></div>
-                        <div class="language-menu" data-v-20b942c2="" style="--0f4785fe: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan.svg'); --736c11d2: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan_arrow.svg'); --30bf3fef: 4.56rem;" data-v-0b4d0b00="">
-                            <div class="language-menu__selected" data-v-0b4d0b00=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan.svg" alt="icon-lang" class="lang icon_lan" data-v-0b4d0b00=""><span class="text" data-v-0b4d0b00="">ไทย</span><span class="arrow icon_lan_arrow" data-v-0b4d0b00=""></span></div>
-                            <div class="language-menu__list" data-v-0b4d0b00="">
-                                <div class="wrap" data-v-0b4d0b00=""><!--[-->
-                                    <div class="option" data-v-0b4d0b00="">English</div>
-                                    <div class="option" data-v-0b4d0b00="">繁體中文</div>
-                                    <div class="option active" data-v-0b4d0b00="">ไทย</div>
-                                    <div class="option" data-v-0b4d0b00="">Bahasa</div>
-                                    <div class="option" data-v-0b4d0b00="">Türkçe</div>
-                                    <div class="option" data-v-0b4d0b00="">العربية</div>
-                                    <div class="option" data-v-0b4d0b00="">Español</div>
-                                    <div class="option" data-v-0b4d0b00="">Português</div><!--]-->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="icon" data-v-20b942c2="">
-                            <div class="icon_menu" data-v-20b942c2=""></div>
-                        </div>
-                    </div>
+    <div class="nav-bar" data-v-1e06343c="" style="--47b0fc0b: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_deco.png'); --bed21a68: url('https://web.df.garena.com/02_h5/240923_official_website/th/mb/icon_menu.svg'); --61a7db53: url('https://web.df.garena.com/02_h5/240923_official_website/th/mb/nav_on.png');" data-v-20b942c2="">
+        <div class="nav-bar__wrap" data-v-20b942c2="">
+            <div class="nav-bar__items" data-v-20b942c2="">
+                <div class="logo" data-v-20b942c2="" style="--1bc50692: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_03.png'); --5811932a: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_01.png'); --a920d5b6: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_logo_02.png');" data-v-155083fb="">
+                    <div class="icon-garena top_logo_03" data-v-155083fb=""></div>
+                    <div class="icon-game top_logo_01" data-v-155083fb=""></div>
                 </div>
-                <div class="nav-bar__line" data-v-20b942c2=""></div><!---->
+                <div class="link-btn-wrap" data-v-20b942c2=""><!--[--><a class="link-btn" target="_blank" href="https://redeem.df.garena.sg/th/cdkgarena.html" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">ศูนย์แลกรางวัล</span><img src="https://web.df.garena.com/02_h5/240923_official_website/general/top_icon_03.png" alt="link" data-v-74567417=""></a><a class="link-btn" target="_blank" href="{{ route ('support')}}" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">ฝ่ายบริการลูกค้า</span><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/top_icon_02.png" alt="link" data-v-74567417=""></a><a class="link-btn" target="_blank" href="https://deltaforce.garena.com/anticheat/th/" data-v-20b942c2="" data-v-74567417=""><span data-v-74567417="">G.T.I. Security</span><img src="https://web.df.garena.com/02_h5/240923_official_website/general/top_icon_01.png" alt="link" data-v-74567417=""></a><!--]--></div>
             </div>
-            <div style="display:none;" class="modals" data-v-1e06343c=""><!--[--><!--]--></div>
-            <div class="slide-nav" data-v-1e06343c="" style="--05e46fe4: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_bottom.png');" data-v-6b50950d="">
-                <div class="slide-nav__bg nav_bottom" data-v-6b50950d=""></div><a href="https://web.df.garena.com/01_installer/GarenaDeltaForceLauncher.exe" rel="noopener noreferrer" target="_blank" class="center-btn" data-v-6b50950d="" style="--b61db6f2: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_btn.png'); --77042998: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_mask.png'); --03e70a28: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_btn_hover.png'); --3cfb315c: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_light.png');" data-v-8305fc43=""><!--[-->
-                    <div class="center-btn__bg nav_center_btn" data-v-8305fc43="">
-                        <div class="center-btn__text" data-v-8305fc43=""><span style="font-size: 80%;">โหลด<br>เล่นเลย</span></div>
-                        <div class="center-btn__animate" data-v-8305fc43=""></div>
-                    </div><!--]-->
-                </a>
-                <div class="slide-nav__item-wrap" data-v-6b50950d=""><!--[--><a href="/th/#lobby" class="router-link-active router-link-exact-active nav-item nav_light active" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->หน้าแรก<!--]--></a><a href="/th/#news" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->ข่าวสาร<!--]--></a><a href="/th/#gamemodes" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->โหมดเกม<!--]--></a><a href="/th/#operators" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->โอเปอเรเตอร์<!--]--></a><a href="/th/#firearms" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->อาวุธปืน<!--]--></a><a href="/th/#vehicles" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->ยานพาหนะ<!--]--></a><!--]--></div>
-            </div><!----><!---->
-
-
-<main>  {{ $slot }} </main>
-
-
-
-
-
-<footer id="footer" class="footer" data-v-1e06343c="" data-v-0d90e8f6="">
-                <div class="gsitefooter-wrap" id="J-sitefooter">
-                    <div class="gsitefooter">
-                        <div class="gsitefooter__logos"></div>
-                        <div class="gsitefooter__cnt">
-                            <div class="gsitefooter__copyrights" data-text="Copyright © Garena Online. 
-COPYRIGHT © 1998 - 2024 TENCENT. ALL RIGHTS RESERVED."></div>
-                            <div>
-                                <div class="gsitefooter__links"><a href="//www.garena.co.th/tos" target="_blank" rel="noreferrer noopener" class="gsitefooter__link">
-                                        <div class="gsitefooter__link-icon--terms"></div>
-                                        <div class="gsitefooter__link-txt">เงื่อนไขการให้บริการ</div>
-                                    </a><a href="//www.garena.co.th/privacy" target="_blank" rel="noreferrer noopener" class="gsitefooter__link">
-                                        <div class="gsitefooter__link-icon--terms"></div>
-                                        <div class="gsitefooter__link-txt">นโยบายความเป็นส่วนตัว</div>
-                                    </a></div>
-                            </div>
+            <div class="nav-bar__items social-media-lang" data-v-20b942c2="">
+                <div class="social-media-btn-wrap" data-v-20b942c2=""><!--[--><a class="social-media-btn" href="https://www.facebook.com/GarenaDeltaForceTH/" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_01.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.instagram.com/garenadfth/" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_03.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.youtube.com/@GarenaDeltaForceTH" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_04.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://discord.com/invite/SA9R5N9Q4c" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_05.png" alt="icon-social_media" data-v-7280c579=""></a><a class="social-media-btn" href="https://www.tiktok.com/@garenadeltaforceth" target="_blank" data-v-20b942c2="" data-v-7280c579=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/socialmedia_icon_06.png" alt="icon-social_media" data-v-7280c579=""></a><!--]--></div>
+                <div class="language-menu" data-v-20b942c2="" style="--0f4785fe: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan.svg'); --736c11d2: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan_arrow.svg'); --30bf3fef: 4.56rem;" data-v-0b4d0b00="">
+                    <div class="language-menu__selected" data-v-0b4d0b00=""><img src="https://web.df.garena.com/02_h5/240923_official_website/th/pc/icon_lan.svg" alt="icon-lang" class="lang icon_lan" data-v-0b4d0b00=""><span class="text" data-v-0b4d0b00="">ไทย</span><span class="arrow icon_lan_arrow" data-v-0b4d0b00=""></span></div>
+                    <div class="language-menu__list" data-v-0b4d0b00="">
+                        <div class="wrap" data-v-0b4d0b00=""><!--[-->
+                            <div class="option" data-v-0b4d0b00="">English</div>
+                            <div class="option" data-v-0b4d0b00="">繁體中文</div>
+                            <div class="option active" data-v-0b4d0b00="">ไทย</div>
+                            <div class="option" data-v-0b4d0b00="">Bahasa</div>
+                            <div class="option" data-v-0b4d0b00="">Türkçe</div>
+                            <div class="option" data-v-0b4d0b00="">العربية</div>
+                            <div class="option" data-v-0b4d0b00="">Español</div>
+                            <div class="option" data-v-0b4d0b00="">Português</div><!--]-->
                         </div>
                     </div>
                 </div>
-            </footer>
+                <div class="icon" data-v-20b942c2="">
+                    <div class="icon_menu" data-v-20b942c2=""></div>
+                </div>
+            </div>
         </div>
+        <div class="nav-bar__line" data-v-20b942c2=""></div><!---->
+    </div>
+    <div style="display:none;" class="modals" data-v-1e06343c=""><!--[--><!--]--></div>
+    <div class="slide-nav" data-v-1e06343c="" style="--05e46fe4: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_bottom.png');" data-v-6b50950d="">
+        <div class="slide-nav__bg nav_bottom" data-v-6b50950d=""></div><a href="https://web.df.garena.com/01_installer/GarenaDeltaForceLauncher.exe" rel="noopener noreferrer" target="_blank" class="center-btn" data-v-6b50950d="" style="--b61db6f2: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_btn.png'); --77042998: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_mask.png'); --03e70a28: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_btn_hover.png'); --3cfb315c: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_center_light.png');" data-v-8305fc43=""><!--[-->
+            <div class="center-btn__bg nav_center_btn" data-v-8305fc43="">
+                <div class="center-btn__text" data-v-8305fc43=""><span style="font-size: 80%;">โหลด<br>เล่นเลย</span></div>
+                <div class="center-btn__animate" data-v-8305fc43=""></div>
+            </div><!--]-->
+        </a>
+        <div class="slide-nav__item-wrap" data-v-6b50950d=""><!--[--><a href="/th/#lobby" class="router-link-active router-link-exact-active nav-item nav_light active" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->หน้าแรก<!--]--></a><a href="/th/#news" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->ข่าวสาร<!--]--></a><a href="/th/#gamemodes" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->โหมดเกม<!--]--></a><a href="/th/#operators" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->โอเปอเรเตอร์<!--]--></a><a href="/th/#firearms" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->อาวุธปืน<!--]--></a><a href="/th/#vehicles" class="router-link-active router-link-exact-active nav-item nav_light" data-v-6b50950d="" style="--427fe838: url('https://web.df.garena.com/02_h5/240923_official_website/th/pc/nav_light.png');" data-v-e8ff0163="" aria-current="page"><!--[-->ยานพาหนะ<!--]--></a><!--]--></div>
+    </div><!----><!---->
+
+
+    <main> {{ $slot }} </main>
+
+
+
+
+
+    <footer id="footer" class="footer" data-v-1e06343c="" data-v-0d90e8f6="">
+    </footer>
+    </div>
     </div>
     <div id="teleports">
         <div data-v-3803b36d="" class="float-text" style="display: none;">
