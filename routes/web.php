@@ -23,3 +23,10 @@ require __DIR__.'/auth.php';
 Route::get('/', function () {
     return view('home');
 });
+//
+Route::get('/active/support', function () {
+    return view('active/support');
+})->name('support');
+Route::get('/active/contact', function () {
+    return view('active/contact');
+})->name('contact');
