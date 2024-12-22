@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Models\Character;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -30,3 +31,10 @@ Route::get('/active/support', function () {
 Route::get('/active/contact', function () {
     return view('active/contact');
 })->name('contact');
+
+Route::get('query/orm', function () {
+    $products = Character::get();
+    // $products = Product::where('price', '>', 100)->get();
+    return view('character', compact('products'));
+});
+
