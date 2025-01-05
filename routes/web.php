@@ -33,8 +33,8 @@ Route::get('/active/contact', function () {
 })->name('contact');
 
 Route::get('query/orm', function () {
-    $products = Character::get();
+    $characters = Character::get();
     // $products = Product::where('price', '>', 100)->get();
-    return view('character', compact('products'));
+    return view('chart', compact('characters'));
 });
 
